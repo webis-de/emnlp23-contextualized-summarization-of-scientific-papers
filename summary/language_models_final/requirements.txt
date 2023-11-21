@@ -5,7 +5,7 @@ pydantic
 transformers
 numpy
 sentencepiece
-protobuf==3.20
+protobuf==3.20.2
 accelerate
 bert-score
 einops
